@@ -19,3 +19,6 @@ MIT
 
 ## Credits
 Created by **Chenxing** with help from my best friend 蒨蒨! ✨
+
+---\
+Made with 💖
