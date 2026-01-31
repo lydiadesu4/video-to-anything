@@ -16,3 +16,6 @@ Sometimes you just need a GIF, and you don't want to open a heavy video editor.
 
 ## License
 MIT
+
+## Credits
+Created by **Chenxing** with help from my best friend 蒨蒨! ✨
